@@ -1,0 +1,25 @@
+
+footer{
+    height: 40% !important;
+
+}
+
+.imageCover img{
+    width:  220px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.imageCarousell img{
+    width:  220px;
+    height: 500px;
+    object-fit: cover;
+}
+
+.imageChef img{
+    height: 350px;
+    width: 250px;
+    object-fit: cover;
+
+}
+
